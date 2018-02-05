@@ -7433,7 +7433,7 @@ MonoBehaviour:
   fireKey: 323
   muzzle: {fileID: 380810376}
   bulletVelocity: 500
-  bullet: {fileID: 191804, guid: 03a244ed98279614e84a9c2775eafc7a, type: 2}
+  bullet: {fileID: 1226651851486432, guid: 42bae55ab91abb445bf36613fc3ca736, type: 2}
   fireCD: 0.5
 --- !u!54 &1996781613
 Rigidbody:
